@@ -91,7 +91,7 @@
                 <div class="bg-white p-8 rounded-lg shadow-md">
                     <h2 class="text-2xl md:text-3xl font-bold text-slate-900 mb-4">Chương trình Thi đua Tìm kiếm Tài năng Lãnh đạo GHN</h2>
                     <div class="prose max-w-none text-slate-600">
-                        <p class="lead">Báo cáo này trình bày kế hoạch chi tiết cho Chương trình Thi đua Tìm kiếm Tài năng Lãnh đạo tại Giao Hàng Nhanh (GHN), được thiết kế nhằm mục tiêu chiến lược là xác định, đánh giá và tạo nền tảng phát triển cho đội ngũ lãnh đạo kế cận. Chương trình được xây dựng dựa trên sự kết hợp giữa các thông lệ quốc tế hàng đầu và đặc thù của GHN.</p>
+                
                         <p>Mục tiêu của ứng dụng tương tác này là cung cấp cho Ban Lãnh đạo một cái nhìn tổng quan, dễ tiếp cận về toàn bộ kế hoạch. Thay vì đọc một tài liệu dài, bạn có thể nhanh chóng điều hướng đến các phần quan trọng, khám phá các tiêu chí đánh giá, xem lịch trình chi tiết và hiểu rõ các bài tập tình huống được đề xuất. Mỗi phần đều được thiết kế để làm nổi bật thông tin cốt lõi, giúp việc ra quyết định trở nên hiệu quả và dựa trên dữ liệu.</p>
                     </div>
                 </div>
